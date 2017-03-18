@@ -5,5 +5,5 @@ Although I will try my best to support all rom versions, please use the reccomen
 
 To use just name the folder the same as the rom name
 
-Update, although still a litte bit buggy, you can also use these packs on mesen https://github.com/SourMesen/Mesen
+Update, although still a little bit buggy, you can also use these packs on mesen https://github.com/SourMesen/Mesen
 just put them in hdpack directory
